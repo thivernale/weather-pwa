@@ -1,0 +1,26 @@
+{
+  "name": "your-first-pwa",
+  "version": "2.0.0",
+  "description": "Codelab for Your First PWA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-http-to-https": "^1.1.4",
+    "node-fetch": "^2.3.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/your-first-pwa"
+  },
+  "license": "Apache2",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
